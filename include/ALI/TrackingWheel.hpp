@@ -28,8 +28,6 @@ private:
     float _wheelDiameter;
     float _distance;
     float _gearRatio;
-
-    float getAverageMotorPosition();
 };
 
 } // namespace ali
